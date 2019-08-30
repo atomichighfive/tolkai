@@ -1,0 +1,12 @@
+name: tolkai
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - pip
+  - pudb
+  - pytest
+  - tensorflow
+  - tqdm
